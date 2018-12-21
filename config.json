@@ -1,0 +1,9 @@
+{
+    "name": "Capital",
+    "locales": [
+        "fr",
+        "en"
+    ],
+    "s3Bucket": "static.coorpacademy.com/content/capital",
+    "videoProvider": "jwplayer"
+}
